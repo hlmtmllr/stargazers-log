@@ -1,0 +1,30 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "description": "The world's largest open source community for learning to code.",
+    "language": "JavaScript",
+    "stars": 420000
+  },
+  {
+    "name": "30-seconds-of-code",
+    "owner": "Chalarangelo",
+    "description": "Short code snippets for all your development needs.",
+    "language": "JavaScript",
+    "stars": 125000
+  },
+  {
+    "name": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 310000
+  },
+  {
+    "name": "the-book-of-secret-knowledge",
+    "owner": "trimstray",
+    "description": "A collection of inspiring lists, manuals, cheatsheets and more.",
+    "language": "Shell",
+    "stars": 175000
+  }
+]
